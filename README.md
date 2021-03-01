@@ -1,2 +1,0 @@
-# vistazo-begin
-Begin app
